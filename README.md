@@ -1,3 +1,3 @@
 # SmartAFK_public
 
-A application to not get tagged as afk.
+A application to simulate mouse movement so you won't get flagged as afk.
